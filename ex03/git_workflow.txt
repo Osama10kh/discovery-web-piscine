@@ -1,0 +1,6 @@
+# Git Workflow 
+
+1- Edit: make code modification or add new files
+2- add : using git add to verify modified files.
+3- commit: using git commit to create a snapshot in repo. history.
+4- push: using git push to upload local commits to the remote repo.
