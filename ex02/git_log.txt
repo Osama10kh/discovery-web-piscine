@@ -1,5 +1,5 @@
-commit a419825fc61ffbf8a22ff0156bd35036e8b6caf8
+commit 96d246a21a810ac459b6bd744a316174f06efaad
 Author: Osama10kh <osama10kh@gmail.com>
-Date:   Wed Sep 30 14:57:48 2026 +0300
+Date:   Thu Oct 1 14:52:30 2026 +0300
 
-    add hello.txt file
+    feat: initial commit with hello.txt
